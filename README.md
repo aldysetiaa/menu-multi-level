@@ -10,7 +10,7 @@ Penggunaan role menu / setiap level user berbeda menu nya secara dinamis tanpa h
 ![alt text](https://github.com/aldysetiaa/menu-multi-level/blob/main/menu1.png)
 
 # Contoh Staff Menu
-![alt text](https://github.com/aldysetiaa/menu-multi-level/blob/main/menu1.png)
+![alt text](https://github.com/aldysetiaa/menu-multi-level/blob/main/menu2.png)
 
 # Design Database Relations
 ![alt_text](https://github.com/aldysetiaa/menu-multi-level/blob/main/design%20schema.png)
